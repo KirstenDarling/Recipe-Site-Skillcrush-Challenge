@@ -1,6 +1,6 @@
 # Recipe Site - Skillcrush Challenge
 ## Skillcrush class 105, Recipe Cards, Non responsive.
-### View the [live project here.](https://kirstendarling.github.io/101-bonus-recipe-challenge/)
+### View the [live project here.](https://kirstendarling.github.io/Recipe-Site-Skillcrush-Challenge/)
 
 ### Screenshot
 
